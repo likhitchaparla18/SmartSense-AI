@@ -80,3 +80,4 @@ if image_file:
     st.info(f" Estimated Remaining Life: {remaining_life} hours")
 st.markdown("---")
 st.caption("SmartSense uses HSV-based color detection for accurate real-world analysis.")
+st.markdown("+++")
